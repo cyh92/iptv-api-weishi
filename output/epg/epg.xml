@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251027115405 +0800">
+<tv date="20251027132325 +0800">
 	<channel id="三沙卫视">
 		<display-name lang="zh">三沙卫视</display-name>
 	</channel>
@@ -2296,7 +2296,7 @@
 		<title lang="zh">纪录中国故事</title>
 	</programme>
 	<programme channel="广西卫视" start="20251027080000 +0800" stop="20251027084000 +0800">
-		<title lang="zh">中国经济圆桌会</title>
+		<title lang="zh">动画剧场</title>
 	</programme>
 	<programme channel="广西卫视" start="20251027084000 +0800" stop="20251027105000 +0800">
 		<title lang="zh">重温经典电影《英雄儿女》</title>
@@ -2335,13 +2335,13 @@
 		<title lang="zh">转播：新闻联播</title>
 	</programme>
 	<programme channel="广西卫视" start="20251027193500 +0800" stop="20251027201500 +0800">
-		<title lang="zh">美丽剧场38集：暗夜与黎明(19)</title>
+		<title lang="zh">美丽剧场38集：暗夜与黎明(18)</title>
 	</programme>
 	<programme channel="广西卫视" start="20251027201500 +0800" stop="20251027205000 +0800">
 		<title lang="zh">广西海洋天气预报</title>
 	</programme>
 	<programme channel="广西卫视" start="20251027205000 +0800" stop="20251027214000 +0800">
-		<title lang="zh">美丽剧场38集：暗夜与黎明(20)</title>
+		<title lang="zh">美丽剧场38集：暗夜与黎明(19)</title>
 	</programme>
 	<programme channel="广西卫视" start="20251027214000 +0800" stop="20251027220500 +0800">
 		<title lang="zh">首播:遇见好书</title>
