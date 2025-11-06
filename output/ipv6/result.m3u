@@ -40,11 +40,11 @@ http://gslbmgsplive.miguvideo.com/envivo_x/SD/lvyou/711/index.m3u8?msisdn=202511
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="📡卫视频道",海南卫视
 https://zby.130519.xyz/PLTV/11/224/3221226154/index.m3u8
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="📡卫视频道",河北卫视
-https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1762433418&k=11a3240ca162d715fbd45bee8bb973ec
+https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1762437021&k=e84e2645fc7980e868957b66a004a5cd
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="📡卫视频道",河北卫视
 https://zby.130519.xyz/PLTV/11/224/3221226107/index.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
-http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=82310a0c868b036108435ae10a0a0d4b&wsTime=1762440605&wsSession=980ba77cefa552db93270e01-176242620584262&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
+http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=a76bb939efd86c8c6f66d6ad5d39d92d&wsTime=1762444204&wsSession=980ba77cefa552db93270e01-176242980514115&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
 http://gslbmgsplive.miguvideo.com/wd-henanwssd-600/index.m3u8?msisdn=20251106180012ae21d52337804b959f59f72795f5b808&mdspid=&spid=600633&netType=0&sid=5910021585&pid=2028597139&timestamp=20251106180012&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=790187291&ParentNodeID=-99&assertID=5910021585&client_ip=43.139.160.244&SecurityKey=20251106180012&promotionId=&mvid=5900005706&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=b597fa69d65f5ba1aafd32a2dbf27dee&ddCalcu=ebe5ed907702f0fab6d92da6253fd5fbaaa1
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
@@ -106,7 +106,7 @@ https://zby.130519.xyz/PLTV/11/224/3221226152/index.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="📡卫视频道",天津卫视
 https://zby.130519.xyz/PLTV/11/224/3221225742/index.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="📡卫视频道",西藏卫视
-https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=8702107cbb03fd28537c29fcad7ea319&time=690c7d5a
+https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=bd0dd16fb002e871725e5173ba9b4644&time=690c8b6b
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="📡卫视频道",西藏卫视
 https://zby.130519.xyz/PLTV/11/224/3221225767/index.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="📡卫视频道",西藏卫视
@@ -121,5 +121,5 @@ https://zby.130519.xyz/PLTV/11/224/3221226109/index.m3u8
 https://zby.130519.xyz/PLTV/11/224/3221226151/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8
-#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安多卫视.png" group-title="🕘️更新时间",2025-11-06 18:55:40
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安多卫视.png" group-title="🕘️更新时间",2025-11-06 19:52:56
 https://zby.130519.xyz/PLTV/11/224/3221225739/index.m3u8
