@@ -9,7 +9,6 @@
 东方卫视,https://zby.130519.xyz/PLTV/11/224/3221226106/index.m3u8
 东方卫视,https://zby.130519.xyz/PLTV/11/224/3221226050/index.m3u8
 东南卫视,https://zby.130519.xyz/PLTV/11/224/3221225745/index.m3u8
-甘肃卫视,https://hls.gstv.com.cn/skt649/nd6ycc.m3u8
 甘肃卫视,https://zby.130519.xyz/PLTV/11/224/3221226090/index.m3u8
 广东卫视,https://zby.130519.xyz/PLTV/11/224/3221225731/index.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
@@ -19,8 +18,9 @@
 海南卫视,http://gslbmgsplive.miguvideo.com/envivo_x/SD/lvyou/711/index.m3u8?msisdn=202511292000190059b5af0d9e4c8ab32442bb4a25113f&mdspid=&spid=600633&netType=0&sid=5910022165&pid=2028597139&timestamp=20251129200019&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472502&ParentNodeID=-99&assertID=5910022165&client_ip=43.139.160.244&SecurityKey=20251129200019&promotionId=&mvid=5900004359&mcid=500020&playurlVersion=WX-A1-8.11.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=2041b4bbc47b348186162a0fe0279c5c&ddCalcu=c250ec429177b0240bebfc04a72b63146881
 海南卫视,https://zby.130519.xyz/PLTV/11/224/3221226154/index.m3u8
 海峡卫视,http://gslbmgsplive.miguvideo.com/migu/kailu/haixiaws/51/20230724/index.m3u8?msisdn=20251129200019fd1b428a53994b3db3bede6aba422d02&mdspid=&spid=600717&netType=0&sid=5910022183&pid=2028597139&timestamp=20251129200019&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=849119120&ParentNodeID=-99&assertID=5910022183&client_ip=43.139.160.244&SecurityKey=20251129200019&promotionId=&mvid=5900006231&mcid=500020&playurlVersion=WX-A1-8.11.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=16bfb3c5885f3037cce919887caeb4a0&ddCalcu=01a6e4b2bf9eb0a3cc758888951f93e0c3c7
+河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1764430830&k=58985e6d9bad3d68162c92721b664109
 河北卫视,https://zby.130519.xyz/PLTV/11/224/3221226107/index.m3u8
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=4fa5e4acfbf5b5750eaafb46d569b1a2&wsTime=1764436206&wsSession=bbee4ee2dc0b6e18864b6193-176442180681850&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=4a253fe6650cbc194ab4b7aae3716980&wsTime=1764438005&wsSession=83d201dd11533d529ddafcf1-176442360578204&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
 河南卫视,http://gslbmgsplive.miguvideo.com/wd-henanwssd-600/index.m3u8?msisdn=202511292000191ad3ad817db34e838b531cc55ad352e7&mdspid=&spid=600633&netType=0&sid=5910021585&pid=2028597139&timestamp=20251129200019&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=790187291&ParentNodeID=-99&assertID=5910021585&client_ip=43.139.160.244&SecurityKey=20251129200019&promotionId=&mvid=5900005706&mcid=500020&playurlVersion=WX-A1-8.11.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=a8bf7ef7b05db988343027d2182623b6&ddCalcu=6ab8e3b22f06702e8f172bd0752d0b394838
 河南卫视,https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8
 黑龙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225722/index.m3u8
@@ -49,7 +49,7 @@
 深圳卫视,https://zby.130519.xyz/PLTV/11/224/3221225728/index.m3u8
 四川卫视,https://zby.130519.xyz/PLTV/11/224/3221226152/index.m3u8
 天津卫视,https://zby.130519.xyz/PLTV/11/224/3221225742/index.m3u8
-西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=2073e9b14a006f9d4be6c2c5a965697c&time=692af0ac
+西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=7ec94dc1ad5b4967b202001e0ddfc636&time=692af7b3
 西藏卫视,https://zby.130519.xyz/PLTV/11/224/3221225767/index.m3u8
 西藏卫视,https://zby.130519.xyz/PLTV/11/224/3221226012/index.m3u8
 厦门卫视,https://zby.130519.xyz/PLTV/11/224/3221226008/index.m3u8
@@ -59,4 +59,4 @@
 浙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8
 
 🕘️更新时间,#genre#
-2025-11-29 21:16:08,https://zby.130519.xyz/PLTV/11/224/3221225739/index.m3u8
+2025-11-29 21:52:39,https://zby.130519.xyz/PLTV/11/224/3221225739/index.m3u8
