@@ -1,7 +1,6 @@
 📡卫视频道,#genre#
 安徽卫视,http://t.061899.xyz/tl/tl.php?id=ahws
 安徽卫视,https://zby.130519.xyz/PLTV/11/224/3221225739/index.m3u8
-北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1764478207&sign=4c5a037f6804f0dcab0659e582c364fc
 北京卫视,http://go.bkpcp.top/mg/bjws
 北京卫视,http://j.s.bkpcp.top/jj/bjws
 北京卫视,http://t.061899.xyz/tl/tl.php?id=bjws
@@ -24,6 +23,7 @@
 东南卫视,http://gslbmgsplive.miguvideo.com/migu/kailu/dongnanws/51/20230724/index.m3u8?msisdn=202511301200188b85129818ff4fdf9018ce42b22281f3&mdspid=&spid=600717&netType=0&sid=5910022182&pid=2028597139&timestamp=20251130120018&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=849116810&ParentNodeID=-99&assertID=5910022182&client_ip=43.139.160.244&SecurityKey=20251130120018&promotionId=&mvid=5900006229&mcid=500020&playurlVersion=WX-A1-8.11.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=3c40fb7967584da59c2b91fc2307d27a&ddCalcu=a37ce243d097f00b3729c6f71598b42dca95
 东南卫视,https://zby.130519.xyz/PLTV/11/224/3221225745/index.m3u8
 甘肃卫视,http://t.061899.xyz/tl/tl.php?id=gsws
+甘肃卫视,https://hls.gstv.com.cn/skt649/nd6ycc.m3u8
 甘肃卫视,https://zby.130519.xyz/PLTV/11/224/3221226090/index.m3u8
 广东卫视,http://go.bkpcp.top/mg/gdws
 广东卫视,http://j.s.bkpcp.top/jj/gdws
@@ -34,7 +34,7 @@
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 广西卫视,https://zby.130519.xyz/PLTV/11/224/3221226084/index.m3u8
 广西卫视,https://zby.130519.xyz/PLTV/11/224/3221226130/index.m3u8
-贵州卫视,https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=d5ba17f091b274ed0fb0dffdb05b6377&txTime=692BC85B
+贵州卫视,https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=f23ee4677d66f74ea6c51577bcae12b4&txTime=692BD8C2
 贵州卫视,http://t.061899.xyz/tl/tl.php?id=gzws
 贵州卫视,https://zby.130519.xyz/PLTV/11/224/3221226173/index.m3u8
 海南卫视,https://livelyws.chinamcache.com/lyws/zb03.m3u8
@@ -45,12 +45,12 @@
 海南卫视,https://zby.130519.xyz/PLTV/11/224/3221226154/index.m3u8
 海峡卫视,http://gslbmgsplive.miguvideo.com/migu/kailu/haixiaws/51/20230724/index.m3u8?msisdn=2025113012001831e21d6435024d9a888e83e5aab6f356&mdspid=&spid=600717&netType=0&sid=5910022183&pid=2028597139&timestamp=20251130120018&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=849119120&ParentNodeID=-99&assertID=5910022183&client_ip=43.139.160.244&SecurityKey=20251130120018&promotionId=&mvid=5900006231&mcid=500020&playurlVersion=WX-A1-8.11.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=a44ec116949231e61118e2a0db2a57e5&ddCalcu=5ae4e7435e9ac021b1d609a429e283111e16
 河北卫视,http://t.061899.xyz/tl/tl.php?id=hbws
-河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1764485419&k=79e0c1e2fe1d2ba15a81e5be12940691
+河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1764489021&k=a63624860111a1360820ae72e4839aa5
 河北卫视,https://zby.130519.xyz/PLTV/11/224/3221226107/index.m3u8
 河南卫视,http://go.bkpcp.top/mg/hnws
 河南卫视,http://j.s.bkpcp.top/jj/hnws
 河南卫视,http://t.061899.xyz/tl/tl.php?id=hnws
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=2514832d4a53555b7077a65f32f0e1ad&wsTime=1764492605&wsSession=bbee4ee2dc0b6e18864b6193-176447820613709&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=f635c5040d06524b780a69166392c2e3&wsTime=1764496205&wsSession=83d201dd11533d529ddafcf1-176448180568535&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
 河南卫视,http://gslbmgsplive.miguvideo.com/wd-henanwssd-600/index.m3u8?msisdn=2025113012001769c0345850a44e49b0601436c872e4aa&mdspid=&spid=600633&netType=0&sid=5910021585&pid=2028597139&timestamp=20251130120017&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=790187291&ParentNodeID=-99&assertID=5910021585&client_ip=43.139.160.244&SecurityKey=20251130120017&promotionId=&mvid=5900005706&mcid=500020&playurlVersion=WX-A1-8.11.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=c6e96436ab8dfd02e2dd6bc7510d5b79&ddCalcu=9c76ebe3590d600413567acbb86ddfdd20e2
 河南卫视,https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8
 黑龙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225722/index.m3u8
@@ -63,7 +63,7 @@
 湖南卫视,http://j.s.bkpcp.top/jj/hunws
 湖南卫视,http://t.061899.xyz/tl/tl.php?id=hunws
 湖南卫视,https://zby.130519.xyz/PLTV/11/224/3221225726/index.m3u8
-吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=d9abf4d3bdf0a251518a6fa2f21458fa&txTime=692C0550
+吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=64cfcf31d1b3dcf704217120b12c381a&txTime=692C1361
 吉林卫视,http://gslbmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/index.m3u8?msisdn=20251130120018c1ec89b2ebd34c76b0bfeb73f77dcb36&mdspid=&spid=600633&netType=0&sid=5910022164&pid=2028597139&timestamp=20251130120018&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472500&ParentNodeID=-99&assertID=5910022164&client_ip=43.139.160.244&SecurityKey=20251130120018&promotionId=&mvid=5900004357&mcid=500020&playurlVersion=WX-A1-8.11.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=43ed3046f5cf47260c09f9d967626f2c&ddCalcu=c423efe36d72306074669fd59cff9407c206
 吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226082/index.m3u8
 吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8
@@ -81,7 +81,7 @@
 辽宁卫视,http://t.061899.xyz/tl/tl.php?id=lnws
 辽宁卫视,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?msisdn=202511301200188810517b1c164070ac8796893ed1051a&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20251130120018&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=43.139.160.244&SecurityKey=20251130120018&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=WX-A1-8.11.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=fe4c9b04cf868fa34c26ea8364ba7954&ddCalcu=4f5ee9437c0a90bb40643c8fa8e6682fca43
 辽宁卫视,https://zby.130519.xyz/PLTV/11/224/3221225747/index.m3u8
-内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0&token=bd195cb1b8cb4f4fbbb2a042de3697b6
+内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0&token=5fb98566ebf744c2865c8010517f1205
 内蒙古卫视,https://zby.130519.xyz/PLTV/11/224/3221226011/index.m3u8
 宁夏卫视,http://t.061899.xyz/tl/tl.php?id=nxws
 宁夏卫视,http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/ningxia/1000/index.m3u8?msisdn=20251130120018b023f0ea7d784a31affd1e6584e2a7a7&mdspid=&spid=600697&netType=0&sid=5910022262&pid=2028597139&timestamp=20251130120018&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910535&ParentNodeID=-99&assertID=5910022262&client_ip=43.139.160.244&SecurityKey=20251130120018&promotionId=&mvid=5900004337&mcid=500020&playurlVersion=WX-A1-8.11.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=4ae4c43c30dc851c84698dbae4179b5a&ddCalcu=a45aebe39487c01443eca3b0dd8c9865418c
@@ -111,7 +111,7 @@
 天津卫视,http://t.061899.xyz/tl/tl.php?id=tjws
 天津卫视,https://zby.130519.xyz/PLTV/11/224/3221225742/index.m3u8
 西藏卫视,http://t.061899.xyz/tl/tl.php?id=xzws
-西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=461e2d2d022d73742e7d04101d6b0c10&time=692bccfb
+西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=db97a03a7f8bd867924973d38b8c0e41&time=692bdb0c
 西藏卫视,https://zby.130519.xyz/PLTV/11/224/3221225767/index.m3u8
 西藏卫视,https://zby.130519.xyz/PLTV/11/224/3221226012/index.m3u8
 厦门卫视,https://zby.130519.xyz/PLTV/11/224/3221226008/index.m3u8
@@ -120,11 +120,11 @@
 云南卫视,https://hwapi.yntv.net/62hdvf/41hse3.m3u8
 云南卫视,https://zby.130519.xyz/PLTV/11/224/3221226109/index.m3u8
 云南卫视,https://zby.130519.xyz/PLTV/11/224/3221226151/index.m3u8
-浙江卫视,https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1764478223-2dhc5hhgbgzcr9fodv8rk2mu6zd6it96-0-b621ad7d66acdd25c3eff7ee21d4cd2a
+浙江卫视,https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1764481823-3m9umesz3asmvrggvfrwjif39sqp3twx-0-c89c99c0f7dbf896a7fc38750951ff73
 浙江卫视,http://go.bkpcp.top/mg/zjws
 浙江卫视,http://j.s.bkpcp.top/jj/zjws
 浙江卫视,http://t.061899.xyz/tl/tl.php?id=zjws
 浙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8
 
 🕘️更新时间,#genre#
-2025-11-30 12:58:58,http://t.061899.xyz/tl/tl.php?id=ahws
+2025-11-30 13:52:33,http://t.061899.xyz/tl/tl.php?id=ahws
