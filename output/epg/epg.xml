@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260223163728 +0800">
+<tv date="20260223174707 +0800">
 	<channel id="三沙卫视">
 		<display-name lang="zh">三沙卫视</display-name>
 	</channel>
@@ -5052,123 +5052,6 @@
 	<channel id="旅游卫视">
 		<display-name lang="zh">旅游卫视</display-name>
 	</channel>
-	<programme channel="旅游卫视" start="20260223001600 +0800" stop="20260223010000 +0800">
-		<title lang="zh">午夜剧场</title>
-	</programme>
-	<programme channel="旅游卫视" start="20260223010000 +0800" stop="20260223014500 +0800">
-		<title lang="zh">午夜剧场</title>
-	</programme>
-	<programme channel="旅游卫视" start="20260223014500 +0800" stop="20260223023000 +0800">
-		<title lang="zh">午夜剧场</title>
-	</programme>
-	<programme channel="旅游卫视" start="20260223023000 +0800" stop="20260223030500 +0800">
-		<title lang="zh">天天成长记3</title>
-	</programme>
-	<programme channel="旅游卫视" start="20260223030500 +0800" stop="20260223031000 +0800">
-		<title lang="zh">Bravo Hainan</title>
-	</programme>
-	<programme channel="旅游卫视" start="20260223031000 +0800" stop="20260223034200 +0800">
-		<title lang="zh">第1收藏</title>
-	</programme>
-	<programme channel="旅游卫视" start="20260223034200 +0800" stop="20260223043000 +0800">
-		<title lang="zh">纪录中国</title>
-	</programme>
-	<programme channel="旅游卫视" start="20260223043000 +0800" stop="20260223044500 +0800">
-		<title lang="zh">善行天下</title>
-	</programme>
-	<programme channel="旅游卫视" start="20260223044500 +0800" stop="20260223052700 +0800">
-		<title lang="zh">午夜剧场</title>
-	</programme>
-	<programme channel="旅游卫视" start="20260223052700 +0800" stop="20260223062700 +0800">
-		<title lang="zh">火山口123</title>
-	</programme>
-	<programme channel="旅游卫视" start="20260223062700 +0800" stop="20260223070000 +0800">
-		<title lang="zh">潮起海之南</title>
-	</programme>
-	<programme channel="旅游卫视" start="20260223070000 +0800" stop="20260223070100 +0800">
-		<title lang="zh">中华人民共和国国歌</title>
-	</programme>
-	<programme channel="旅游卫视" start="20260223070100 +0800" stop="20260223073300 +0800">
-		<title lang="zh">海南新闻联播</title>
-	</programme>
-	<programme channel="旅游卫视" start="20260223073300 +0800" stop="20260223081100 +0800">
-		<title lang="zh">阳光剧场</title>
-	</programme>
-	<programme channel="旅游卫视" start="20260223081100 +0800" stop="20260223084900 +0800">
-		<title lang="zh">阳光剧场</title>
-	</programme>
-	<programme channel="旅游卫视" start="20260223084900 +0800" stop="20260223093700 +0800">
-		<title lang="zh">阳光剧场</title>
-	</programme>
-	<programme channel="旅游卫视" start="20260223093700 +0800" stop="20260223102500 +0800">
-		<title lang="zh">阳光剧场</title>
-	</programme>
-	<programme channel="旅游卫视" start="20260223102500 +0800" stop="20260223111300 +0800">
-		<title lang="zh">阳光剧场</title>
-	</programme>
-	<programme channel="旅游卫视" start="20260223111300 +0800" stop="20260223120100 +0800">
-		<title lang="zh">阳光剧场</title>
-	</programme>
-	<programme channel="旅游卫视" start="20260223120100 +0800" stop="20260223124900 +0800">
-		<title lang="zh">阳光剧场</title>
-	</programme>
-	<programme channel="旅游卫视" start="20260223124900 +0800" stop="20260223133700 +0800">
-		<title lang="zh">阳光剧场</title>
-	</programme>
-	<programme channel="旅游卫视" start="20260223133700 +0800" stop="20260223142500 +0800">
-		<title lang="zh">阳光剧场</title>
-	</programme>
-	<programme channel="旅游卫视" start="20260223142500 +0800" stop="20260223151300 +0800">
-		<title lang="zh">阳光剧场</title>
-	</programme>
-	<programme channel="旅游卫视" start="20260223151300 +0800" stop="20260223160100 +0800">
-		<title lang="zh">阳光剧场</title>
-	</programme>
-	<programme channel="旅游卫视" start="20260223160100 +0800" stop="20260223164900 +0800">
-		<title lang="zh">阳光剧场</title>
-	</programme>
-	<programme channel="旅游卫视" start="20260223164900 +0800" stop="20260223174700 +0800">
-		<title lang="zh">阳光剧场</title>
-	</programme>
-	<programme channel="旅游卫视" start="20260223174700 +0800" stop="20260223180900 +0800">
-		<title lang="zh">潮起海之南</title>
-	</programme>
-	<programme channel="旅游卫视" start="20260223180900 +0800" stop="20260223181500 +0800">
-		<title lang="zh">天气预报</title>
-	</programme>
-	<programme channel="旅游卫视" start="20260223181500 +0800" stop="20260223183000 +0800">
-		<title lang="zh">风华正茂</title>
-	</programme>
-	<programme channel="旅游卫视" start="20260223183000 +0800" stop="20260223190000 +0800">
-		<title lang="zh">海南新闻联播</title>
-	</programme>
-	<programme channel="旅游卫视" start="20260223190000 +0800" stop="20260223193000 +0800">
-		<title lang="zh">转播中央台新闻联播</title>
-	</programme>
-	<programme channel="旅游卫视" start="20260223193000 +0800" stop="20260223195500 +0800">
-		<title lang="zh">潮起海之南</title>
-	</programme>
-	<programme channel="旅游卫视" start="20260223195500 +0800" stop="20260223200000 +0800">
-		<title lang="zh">点赞海南</title>
-	</programme>
-	<programme channel="旅游卫视" start="20260223200000 +0800" stop="20260223203400 +0800">
-		<title lang="zh">视界</title>
-	</programme>
-	<programme channel="旅游卫视" start="20260223203400 +0800" stop="20260223211500 +0800">
-		<title lang="zh">金椰剧场</title>
-	</programme>
-	<programme channel="旅游卫视" start="20260223211500 +0800" stop="20260223215500 +0800">
-		<title lang="zh">金椰剧场</title>
-	</programme>
-	<programme channel="旅游卫视" start="20260223215500 +0800" stop="20260223231500 +0800">
-		<title lang="zh">你好快乐生活</title>
-	</programme>
-	<programme channel="旅游卫视" start="20260223231500 +0800" stop="20260223232200 +0800">
-		<title lang="zh">点赞海南</title>
-	</programme>
-	<programme channel="旅游卫视" start="20260223232200 +0800" stop="20260223001500 +0800">
-		<title lang="zh">卫视高尔夫</title>
-	</programme>
 	<programme channel="旅游卫视" start="20260224001500 +0800" stop="20260224005800 +0800">
 		<title lang="zh">午夜剧场</title>
 	</programme>
@@ -5275,6 +5158,114 @@
 		<title lang="zh">等着我</title>
 	</programme>
 	<programme channel="旅游卫视" start="20260224232800 +0800" stop="20260224001500 +0800">
+		<title lang="zh">卫视高尔夫</title>
+	</programme>
+	<programme channel="旅游卫视" start="20260225001500 +0800" stop="20260225005900 +0800">
+		<title lang="zh">午夜剧场</title>
+	</programme>
+	<programme channel="旅游卫视" start="20260225005900 +0800" stop="20260225014400 +0800">
+		<title lang="zh">午夜剧场</title>
+	</programme>
+	<programme channel="旅游卫视" start="20260225014400 +0800" stop="20260225023000 +0800">
+		<title lang="zh">午夜剧场</title>
+	</programme>
+	<programme channel="旅游卫视" start="20260225023000 +0800" stop="20260225025800 +0800">
+		<title lang="zh">动画片剧场</title>
+	</programme>
+	<programme channel="旅游卫视" start="20260225025800 +0800" stop="20260225032200 +0800">
+		<title lang="zh">潮起海之南</title>
+	</programme>
+	<programme channel="旅游卫视" start="20260225032200 +0800" stop="20260225041700 +0800">
+		<title lang="zh">卫视高尔夫</title>
+	</programme>
+	<programme channel="旅游卫视" start="20260225041700 +0800" stop="20260225044400 +0800">
+		<title lang="zh">视界</title>
+	</programme>
+	<programme channel="旅游卫视" start="20260225044400 +0800" stop="20260225052700 +0800">
+		<title lang="zh">午夜剧场</title>
+	</programme>
+	<programme channel="旅游卫视" start="20260225052700 +0800" stop="20260225062800 +0800">
+		<title lang="zh">火山口123</title>
+	</programme>
+	<programme channel="旅游卫视" start="20260225062800 +0800" stop="20260225070000 +0800">
+		<title lang="zh">潮起海之南</title>
+	</programme>
+	<programme channel="旅游卫视" start="20260225070000 +0800" stop="20260225070100 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="旅游卫视" start="20260225070100 +0800" stop="20260225073300 +0800">
+		<title lang="zh">海南新闻联播</title>
+	</programme>
+	<programme channel="旅游卫视" start="20260225073300 +0800" stop="20260225084900 +0800">
+		<title lang="zh">阳光剧场</title>
+	</programme>
+	<programme channel="旅游卫视" start="20260225084900 +0800" stop="20260225093700 +0800">
+		<title lang="zh">阳光剧场</title>
+	</programme>
+	<programme channel="旅游卫视" start="20260225093700 +0800" stop="20260225102500 +0800">
+		<title lang="zh">阳光剧场</title>
+	</programme>
+	<programme channel="旅游卫视" start="20260225102500 +0800" stop="20260225111300 +0800">
+		<title lang="zh">阳光剧场</title>
+	</programme>
+	<programme channel="旅游卫视" start="20260225111300 +0800" stop="20260225120100 +0800">
+		<title lang="zh">阳光剧场</title>
+	</programme>
+	<programme channel="旅游卫视" start="20260225120100 +0800" stop="20260225124900 +0800">
+		<title lang="zh">阳光剧场</title>
+	</programme>
+	<programme channel="旅游卫视" start="20260225124900 +0800" stop="20260225133700 +0800">
+		<title lang="zh">阳光剧场</title>
+	</programme>
+	<programme channel="旅游卫视" start="20260225133700 +0800" stop="20260225142500 +0800">
+		<title lang="zh">阳光剧场</title>
+	</programme>
+	<programme channel="旅游卫视" start="20260225142500 +0800" stop="20260225151300 +0800">
+		<title lang="zh">阳光剧场</title>
+	</programme>
+	<programme channel="旅游卫视" start="20260225151300 +0800" stop="20260225160100 +0800">
+		<title lang="zh">阳光剧场</title>
+	</programme>
+	<programme channel="旅游卫视" start="20260225160100 +0800" stop="20260225164900 +0800">
+		<title lang="zh">阳光剧场</title>
+	</programme>
+	<programme channel="旅游卫视" start="20260225164900 +0800" stop="20260225174700 +0800">
+		<title lang="zh">阳光剧场</title>
+	</programme>
+	<programme channel="旅游卫视" start="20260225174700 +0800" stop="20260225180900 +0800">
+		<title lang="zh">潮起海之南</title>
+	</programme>
+	<programme channel="旅游卫视" start="20260225180900 +0800" stop="20260225181500 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme channel="旅游卫视" start="20260225181500 +0800" stop="20260225183000 +0800">
+		<title lang="zh">风华正茂</title>
+	</programme>
+	<programme channel="旅游卫视" start="20260225183000 +0800" stop="20260225190000 +0800">
+		<title lang="zh">海南新闻联播</title>
+	</programme>
+	<programme channel="旅游卫视" start="20260225190000 +0800" stop="20260225193000 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="旅游卫视" start="20260225193000 +0800" stop="20260225195500 +0800">
+		<title lang="zh">潮起海之南</title>
+	</programme>
+	<programme channel="旅游卫视" start="20260225195500 +0800" stop="20260225200000 +0800">
+		<title lang="zh">点赞海南</title>
+	</programme>
+	<programme channel="旅游卫视" start="20260225200000 +0800" stop="20260225203400 +0800">
+		<title lang="zh">视界</title>
+	</programme>
+	<programme channel="旅游卫视" start="20260225203400 +0800" stop="20260225211500 +0800">
+		<title lang="zh">金椰剧场</title>
+	</programme>
+	<programme channel="旅游卫视" start="20260225211500 +0800" stop="20260225223000 +0800">
+		<title lang="zh">金椰剧场</title>
+	</programme>
+	<programme channel="旅游卫视" start="20260225223000 +0800" stop="20260225230000 +0800">
+		<title lang="zh">海南新闻联播</title>
+	</programme>
+	<programme channel="旅游卫视" start="20260225230000 +0800" stop="20260225001500 +0800">
 		<title lang="zh">卫视高尔夫</title>
 	</programme>
 </tv>
